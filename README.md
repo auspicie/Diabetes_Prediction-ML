@@ -52,7 +52,7 @@ Open an issue
 Submit a pull request
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 📌 Notes
 - Handle the inbalance in target class distribution to ensure model robustness
