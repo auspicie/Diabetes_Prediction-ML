@@ -41,7 +41,7 @@ Output: ✅ *⚠️ High risk of diabetes (87.00% probability)
 ---
 
 ## 📊 Dataset
-Source: [https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset]
+Source: [Dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
 
 Clinical Features: Pregnancies, Glucose, BloodPressure, SkinThickness, etc.
 
